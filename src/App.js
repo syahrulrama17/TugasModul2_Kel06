@@ -76,8 +76,15 @@ let obj = [{nama_lengkap:"Fiki Rilo Pambudi",nama_panggilan:"Fiki",nomor_telepon
 
   return (
     <div className="App">
+	    <h2>Kelompok 06</h2>
       <header className="App-header">
-        
+         <tr>
+          <td>Syahrul Ramadhan (21120119120011)</td>
+        </tr>
+	 <tr>
+          <td>Ilham Farras Adnawan (21120119140133)</td>
+        </tr>
+        <br></br>
 
         <div className="Components">
           
